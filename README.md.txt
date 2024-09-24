@@ -2,9 +2,9 @@
 
 This project demonstrates how to create a cookie consent popup using HTML, CSS, and JavaScript. It stores the user's consent using `localStorage` so that the popup does not appear on subsequent visits.
 
-## Project Page URL
+## Project Repository URL
 
-You can view the live project [here](https://AdelAmoura.github.io/elephant/) (If you deploy it via GitHub Pages, replace this with the actual live URL).
+You can view the repository [here](https://github.com/AdelAmoura/elephant).
 
 ## How to Run the Project
 
@@ -12,4 +12,5 @@ You can view the live project [here](https://AdelAmoura.github.io/elephant/) (If
 
 ```bash
 git clone https://github.com/AdelAmoura/elephant.git
+
 
